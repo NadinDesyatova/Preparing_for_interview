@@ -1,0 +1,7 @@
+.idea/
+__pycache__/
+.pytest_cache/
+.env
+stack_dirty.py
+homework.md
+code_refactoring.py
